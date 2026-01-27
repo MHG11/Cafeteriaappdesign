@@ -2,7 +2,8 @@
   # Cafeteria App Design
 
  O app MoodCoffe foi criado com a ideia de ser um aplicativo que trouxesse o aconchego de uma cafeteria,
- a sua paleta de cores pastel e todo o conjunto foi escolhido pensado nisso.
+ a sua paleta de cores pastel e todo o conjunto foi selecionado de acordo, Pensado para aqueles que querem uma 
+ experiencia confortavel de uma cafeteria, sem sair de casa.
 
  <img width="782" height="593" alt="image" src="https://github.com/user-attachments/assets/9766a8f0-dbbd-4aaf-a12e-96d29cc6c253" />
 
